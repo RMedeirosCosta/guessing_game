@@ -1,6 +1,6 @@
 [package]
 name = "guessing_game"
 version = "0.1.0"
-authors = ["Ricardo Medeiros <ricardo.junior@agrotis.com>"]
+authors = ["Ricardo Medeiros <ricardo.medeiros.costa@gmail.com>"]
 
 [dependencies]
